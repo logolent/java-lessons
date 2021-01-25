@@ -1,4 +1,4 @@
-package task2;
+package task2.flowers;
 
 public abstract class Flower {
   private String manufacturer;

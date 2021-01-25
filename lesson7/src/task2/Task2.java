@@ -1,5 +1,11 @@
 package task2;
 
+import task2.flowers.Carnation;
+import task2.flowers.Flower;
+import task2.flowers.Pion;
+import task2.flowers.Rose;
+import task2.flowers.Tulip;
+
 public class Task2 {
   public static void main(String[] args) {
     // @formatter:off

@@ -1,4 +1,4 @@
-package task2;
+package task2.flowers;
 
 public class Rose extends Flower {
   public Rose(String manufacturer, int storageDays, double price) {

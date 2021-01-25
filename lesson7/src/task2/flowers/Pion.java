@@ -1,4 +1,4 @@
-package task2;
+package task2.flowers;
 
 public class Pion extends Flower {
   public Pion(String manufacturer, int storageDays, double price) {
