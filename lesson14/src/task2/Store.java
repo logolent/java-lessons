@@ -20,6 +20,7 @@ public class Store {
       return true;
     } else if (LoginManager.validateCredentials(login, password, password)) {
       System.out.println("Пользователь [" + login + "] добавлен");
+      this.userData.put(login, password);
       return true;
     }
     // @formatter:on
